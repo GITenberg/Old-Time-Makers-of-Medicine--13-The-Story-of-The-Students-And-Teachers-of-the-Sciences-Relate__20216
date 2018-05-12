@@ -1,0 +1,41 @@
+_repo: Old-Time-Makers-of-Medicine--13-The-Story-of-The-Students-And-Teachers-of-the-Sciences-Relate__20216
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walsh, James J. (James Joseph)
+    aliases:
+    - Walsh, James Joseph
+    - Walsh, J. J. (James Joseph)
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '36672'
+    url: http://www.gutenberg.org/2009/agents/36672
+    wikipedia: http://en.wikipedia.org/wiki/James_Joseph_Walsh
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2006-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20216'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'R'
+- !lcsh 'Medicine, Medieval'
+- !lcsh 'Physicians'
+tableOfContents: 'Great physicians in early Christian times -- Great Jewish physicians
+  -- Maimonides -- Great Arabian physicians -- The medical school at Salerno -- Constantine
+  Africanus -- Medieval women physicians -- Mondino and the medical school of Bologna
+  -- Great surgeons of the medieval universities -- Guy de Chauliac -- Medieval dentistry:
+  Giovanni of Arcoli -- Cusanus and the first suggestion of laboratory methods in
+  medicine -- Basil Valentine, last of the alchemists, first of the chemists -- Appendices:
+  St. Luke, the physician. Science at the medieval universities. Medieval popularization
+  of science.'
+title: "Old-Time Makers of Medicine\r\nThe Story of The Students And Teachers of the\
+  \ Sciences Related to Medicine During the Middle Ages"
+url: http://www.gutenberg.org/ebooks/20216
